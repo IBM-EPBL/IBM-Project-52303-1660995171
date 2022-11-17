@@ -7,8 +7,11 @@ Data analytics is the technique of analyzing the raw data for making intelligent
 Team Member
 
 S.SURYAPRAKASH 
+
 P.SANTHOSH 
+
 M.SATHIYAMOORTHI 
+
 S.SIVACHANDHIRAN 
  
 Goal of the Project:
